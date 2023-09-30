@@ -18,6 +18,7 @@
 
 # 📊 GitHub Stats:
 ![faizanr27's Stats](https://github-readme-stats.vercel.app/api?username=faizanr27&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![faizanr27's Streak](https://github-readme-streak-stats.herokuapp.com/?user=faizanr27&theme=vue-dark&hide_border=true)
 ![faizanr27's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faizanr27&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <!---
 faizanr27/faizanr27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
