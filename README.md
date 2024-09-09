@@ -2,7 +2,7 @@
 <h3 align="center"> Frontend Developer | Open Source Contributor | Exploring Backend </h3>
 
 
-
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=faizanr27.visitor-badge)
 - 👀 I’m interested in **Frontend Web Dev, Open Source & Git**
 - 🌱 I’m currently learning **Mern Stack**
 - 💞️ I’m looking to collaborate on **Open Source, Hackathons**
