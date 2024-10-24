@@ -4,7 +4,7 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=faizanr27.visitor-badge)
 - 👀 I’m interested in **Frontend Web Dev, Open Source & Git**
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Python**
 - 💞️ I’m looking to collaborate on **Open Source, Hackathons**
 - 📫 How to reach me **faizanms025347@gmail.com**
 
