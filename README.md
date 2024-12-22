@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👋, I'm Faizan Raza.</h3>
-<h4 align="center"> Frontend Developer | Expl4ring Backend|</h4>
+<h4 align="center"> Frontend Developer | Exploring Backend </h4>
 <hr/>
-<p align="center">
+<p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=faizanr27.visitor-badge" alt="visitor badge"/>
 </p>
 
