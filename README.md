@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Faizan Raza.</h1>
-<h3 align="center"> Frontend Developer | Exploring Backend </h3>
+<h3 align="center">Hi 👋, I'm Faizan Raza.</h3>
+<h4 align="center"> Frontend Developer | Expl4ring Backend|</h4>
+<hr/>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=faizanr27.visitor-badge" alt="visitor badge"/>
+</p>
 
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=faizanr27.visitor-badge)
-- 👀 I’m interested in **Frontend Web Dev, Open Source & Git**
-- 🌱 I’m currently learning **Next Js**
-- 💞️ I’m looking to collaborate on **Open Source, Hackathons**
-- 📫 How to reach me **faizanms025347@gmail.com**
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faizan-raza-3b3a22203/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/__faizanr__) 
+<h4 align="left">Reach out to me:</h4>
+ <p align="left">
+  <a href="mailto:faizanms025347@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/faizan-raza-3b3a22203/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/__faizanr__" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+</p>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
